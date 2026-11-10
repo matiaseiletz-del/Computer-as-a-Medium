@@ -1,9 +1,10 @@
 # Week 11
 youtube.com/watch?v=UZVg47cEo2k&feature=youtu.be
-Health Pack and Mana: Lorenzo
-Trap: Matias
 
-Matias:
+# Health Pack and Mana: Lorenzo
+# Trap: Matias
+
+# Matias:
 
 # arrow.cs
 New Script that spawns arrows from above dealing damage and disapearing on impact
@@ -11,7 +12,7 @@ New Script that spawns arrows from above dealing damage and disapearing on impac
 # Trap.cs
 Changed the trap to spawn arrows on contact
 
-Lorenzo:
+# Lorenzo:
 
 # Enemy.cs
 Enemy detects when fireball hits it, destroys fireball and takes damage.
