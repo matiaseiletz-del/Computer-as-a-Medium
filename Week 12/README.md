@@ -13,7 +13,7 @@ Enemy detects when fireball hits it, destroys fireball and takes damage.
 ### Fireball.cs
 New script that moves the fireball.
 
-###GameManager.cs
+### GameManager.cs
 Added a coroutine that changes the game over text twice.
 
 ## Playthrough Video Link: 
